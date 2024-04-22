@@ -1,5 +1,3 @@
-import Customer from "../../../domain/customer/entity/customer";
-import Address from "../../../domain/customer/value-object/address";
 import ProductFactory from "../../../domain/product/factory/product.factory";
 import FindPruductUseCase from "./find.product.usecase";
 
